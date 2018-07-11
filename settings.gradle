@@ -1,0 +1,1 @@
+include ':app', ':think_classloader', ':think_dynamic_proxy_hook', ':think_hook_sys_serice', ':think_hook_clipservice', ':think_hook_ams_pms', ':think_hook_launchnonregisteract', ':think_hook_noregister_act', ':think_hook_loadoutclass'
